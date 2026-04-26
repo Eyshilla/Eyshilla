@@ -2,7 +2,8 @@
 
 ## Sobre ## 
 
-Olá, me chamo Eyshilla, tenho 24 anos e atualmente estou no primeiro semestre de *Engenharia de Produção* na Univep. 
+Olá, me chamo Eyshilla, tenho 26 anos e atualmente estou no primeiro semestre de *Engenharia de Produção* na Univep. 
+Atualmente sou Estagiária na Área de Planejamento e OKRs, com foco na área financeira.
 Gosto de sempre estar aprendendo coisas novas, desenvolvendo novas habilidades, na mesma medida que amo fazer colagens, fazer lettering e ler nas horas vagas.
 
 
