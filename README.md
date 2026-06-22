@@ -1,6 +1,6 @@
 ## Eyshilla 🌸
 *"Construindo com delicadeza e propósito ✨"*
-![flower gif]([https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif](https://media1.tenor.com/images/e0150c1e328a3f8ab69750cc3c37a4ab/tenor.gif?itemid=16590418))
+![flower gif](https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif)
 
 ## Sobre mim
 - 🎓 Estudante de Engenharia de Produção com formação prevista para 2028
