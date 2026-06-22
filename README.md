@@ -8,7 +8,7 @@ Gosto de sempre estar aprendendo coisas novas, desenvolvendo novas habilidades, 
 
 
 ## Conecte-se comigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/eyshilla-lima/) [![DIO](https://img.shields.io/badge/Meu_perfil_na_Dio-211?style=for-the-badge&logo=Dio)](https://web.dio.me/users/eyshilla_lorena/?tab=achievements)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/eyshilla-lima/) [![DIO](https://img.shields.io/badge/Meu_perfil_na_Dio-211?style=for-the-badge&logo=Dio)](https://web.dio.me/users/eyshilla_lorena/?tab=achievements) [![Credly](https://img.shields.io/badge/Credly-FFC0CB?style=for-the-badge&logo=Credly&logoColor=0E76A8)](https://www.credly.com/users/eyshilla)
 
 
 
