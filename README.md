@@ -14,33 +14,7 @@
 
 ## 🌸 sobre mim
 
-<table width="100%" style="border: none;">
-<tr>
-<td width="33%" valign="top">
-
-### 🎓 Formação
-Engenharia de Produção
-*previsão: 2028*
-
-</td>
-<td width="33%" valign="top">
-
-### 💼 Atuação
-Estagiária em
-Planejamento e OKRs
-
-</td>
-<td width="33%" valign="top">
-
-### 📚 Paixões
-Aprender, lettering
-e colagens
-
-</td>
-</tr>
-</table>
-
-<br>
+<img src="./assets/sobre-mim.svg" width="100%" alt="Resumo de Formação, Atuação e Paixões" />
 
 ## 🎨 interesses
 
