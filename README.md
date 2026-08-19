@@ -24,28 +24,20 @@
 
 <br>
 
-##
-
+## 💻 Ferramentas  
 <div align="center">
-
-### 💻 Ferramentas &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 💌 Conecte-se comigo
-
 <img src="./assets/Excel.png" alt="Excel" height="50" />
 <img src="./assets/Powerbi.png" alt="Power BI" height="60" />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</div>
+<br>
+
+## 💌 Conecte-se comigo
+<div align="center">
 <a href="https://www.linkedin.com/in/eyshilla-lima" target="_blank">
   <img src="./assets/Linkedin.png" alt="LinkedIn" height="50">
 </a>
 
 </div>
-<br>
-
-<br>
-
-
-  
-</div>
-
 <br>
 
 ## 📊 github stats
