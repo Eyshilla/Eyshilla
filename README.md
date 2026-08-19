@@ -8,7 +8,7 @@
 
 *Construindo com delicadeza e propósito ✨*
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1000&color=B768A2&center=true&vCenter=true&width=435&lines=Bem-vinda+ao+meu+perfil!;Estudante+%7C+Criativa+%7C+Curiosa;Sempre+aprendendo+algo+novo+%E2%9C%A8)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1000&color=B768A2&center=true&vCenter=true&width=435&lines=Bem-vinda(o)+ao+meu+perfil!;Estudante+%7C+Criativa+%7C+Curiosa;Sempre+aprendendo+algo+novo+%E2%9C%A8)](https://git.io/typing-svg)
 
 </div>
 
