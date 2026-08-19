@@ -60,8 +60,8 @@ e colagens
 ##  🔍💻 Ferramentas 
 
 <div align="center">
-  <img src="./assets/excel.png" alt="Excel" height="30" />
-  <img src="./assets/powerbi.png" alt="Power BI" height="30" />
+  <img src="./assets/Excel.png" alt="Excel" height="50" />
+  <img src="./assets/Powerbi.png" alt="Power BI" height="50" />
 </div>
 
 <br>
@@ -69,11 +69,10 @@ e colagens
 ## 💌 conecte-se comigo
 
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0E76A8?style=for-the-badge&logo=linkedin&logoColor=WHITE)](https://www.linkedin.com/in/eyshilla-lima/)
-[![DIO](https://img.shields.io/badge/Meu_perfil_na_Dio-211?style=for-the-badge&logo=Dio)](https://web.dio.me/users/eyshilla_lorena/?tab=achievements)
-[![Credly Badge](https://img.shields.io/badge/Credly-FF7F50?style=for-the-badge&logo=Credly&logoColor=0E76A8)](https://www.credly.com/users/eyshilla)
-
+  <a href="https://www.linkedin.com/in/eyshilla-lima" target="_blank">
+    <img src="./assets/Linkedin.png" alt="LinkedIn" height="50">
+  </a>
+  
 </div>
 
 <br>
