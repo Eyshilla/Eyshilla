@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="100" viewBox="0 0 800 100">
+  <defs>
+    <!-- Gradiente do chão de pétalas -->
+    <linearGradient id="floorGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#FFB7C5" stop-opacity="0.4"/>
+      <stop offset="100%" stop-color="#FF9EBD" stop-opacity="0.9"/>
+    </linearGradient>
+    <path id="petal" d="M0,0 C10,-10 15,-25 5,-32 C2,-35 -2,-35 -5,-32 C-15,-25 -10,-10 0,0 Z" fill="#FFB7C5" />
+  </defs>
+
+  <rect width="800" height="100" fill="transparent" />
+
+  <!-- Chão suave de pétalas acumuladas -->
+  <path d="M0,80 Q100,60 250,75 T550,65 T800,80 L800,100 L0,100 Z" fill="url(#floorGrad)" />
+  <path d="M0,90 Q150,75 300,85 T600,70 T800,90 L800,100 L0,100 Z" fill="#FFC0CB" opacity="0.8" />
+  
+  <!-- Pétalas individuais descansando no chão -->
+  <use href="#petal" x="50" y="85" transform="rotate(45 50 85) scale(0.5)" />
+  <use href="#petal" x="120" y="90" transform="rotate(-20 120 90) scale(0.4)" />
+  <use href="#petal" x="240" y="80" transform="rotate(70 240 80) scale(0.6)" />
+  <use href="#petal" x="380" y="95" transform="rotate(-50 380 95) scale(0.5)" />
+  <use href="#petal" x="450" y="82" transform="rotate(15 450 82) scale(0.4)" />
+  <use href="#petal" x="600" y="88" transform="rotate(-80 600 88) scale(0.6)" />
+  <use href="#petal" x="720" y="84" transform="rotate(35 720 84) scale(0.5)" />
+  <use href="#petal" x="780" y="92" transform="rotate(-10 780 92) scale(0.4)" />
+
+  <!-- Últimas pétalas caindo -->
+  <g transform="translate(150, -20)">
+    <animateTransform attributeName="transform" type="translate" values="150,-20; 160,85" dur="6s" repeatCount="indefinite" />
+    <animate attributeName="opacity" values="0; 1; 1; 0" keyTimes="0; 0.1; 0.9; 1" dur="6s" repeatCount="indefinite" />
+    <use href="#petal" transform="scale(0.4)">
+      <animateTransform attributeName="transform" type="rotate" values="0; 180" dur="6s" repeatCount="indefinite" additive="sum"/>
+    </use>
+  </g>
+
+  <g transform="translate(650, -30)">
+    <animateTransform attributeName="transform" type="translate" values="650,-30; 630,75" dur="5s" repeatCount="indefinite" />
+    <animate attributeName="opacity" values="0; 1; 1; 0" keyTimes="0; 0.1; 0.9; 1" dur="5s" repeatCount="indefinite" />
+    <use href="#petal" transform="scale(0.5)">
+      <animateTransform attributeName="transform" type="rotate" values="0; -180" dur="5s" repeatCount="indefinite" additive="sum"/>
+    </use>
+  </g>
+</svg>
