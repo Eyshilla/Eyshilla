@@ -46,14 +46,9 @@ e colagens
 
 ## 🎨 interesses
 
-<pre>
-  
-`Lettering` ████████░░ 80%
-
-`Colagem`   ██████░░░░ 60%
-
-`Aprender coisas novas` ██████████ 100%
-</pre>
+<div align="center">
+  <img src="./assets/interesses.svg" alt="Barras de progresso animadas dos interesses" />
+</div>
 
 <br>
 
