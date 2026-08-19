@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="100" viewBox="0 0 800 100">
+  <style>
+    .title { 
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; 
+      font-size: 16px; 
+      font-weight: 600; 
+      fill: #24292F; 
+    }
+    .text { 
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; 
+      font-size: 14px; 
+      fill: #57606A; 
+    }
+    .italic { font-style: italic; }
+    
+    /* Mágica para o Modo Escuro */
+    @media (prefers-color-scheme: dark) {
+      .title { fill: #E6EDF3; }
+      .text { fill: #8B949E; }
+    }
+  </style>
+
+  <!-- Fundo transparente -->
+  <rect width="800" height="100" fill="transparent" />
+
+  <!-- Coluna 1: Formação -->
+  <g transform="translate(10, 20)">
+    <text x="0" y="0" class="title">🎓 Formação</text>
+    <text x="0" y="30" class="text">Engenharia de Produção <tspan class="italic">previsão:</tspan></text>
+    <text x="0" y="52" class="text italic">2028</text>
+  </g>
+
+  <!-- Coluna 2: Atuação -->
+  <g transform="translate(300, 20)">
+    <text x="0" y="0" class="title">💼 Atuação</text>
+    <text x="0" y="30" class="text">Estagiária em Planejamento e</text>
+    <text x="0" y="52" class="text">OKRs</text>
+  </g>
+
+  <!-- Coluna 3: Paixões -->
+  <g transform="translate(580, 20)">
+    <text x="0" y="0" class="title">🎨 Paixões</text>
+    <text x="0" y="30" class="text">Aprender, lettering e colagens</text>
+  </g>
+</svg>
