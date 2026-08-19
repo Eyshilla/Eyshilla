@@ -68,11 +68,11 @@ e colagens
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Eyshilla&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=b768a2&text_color=rose_pine)
+![GitHub Stats](https://raw.githubusercontent.com/Eyshilla/Eyshilla/main/profile/stats.svg)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=eyshilla&theme=bear&background=000&border=30A3DC&dates=rose_pine)](https://git.io/streak-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eyshilla&layout=compact&theme=rose_pine&bg_color=000&border_color=30A3DC&title_color=b768a2)
+![Top Langs](https://raw.githubusercontent.com/Eyshilla/Eyshilla/main/profile/top-langs.svg)
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=Eyshilla&theme=radical&no-frame=true&column=4&margin-w=10&margin-h=10)
 
