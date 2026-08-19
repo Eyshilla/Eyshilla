@@ -60,11 +60,10 @@ e colagens
 ##  🔍💻 Ferramentas 
 
 <div align="center">
-
-![Excel](https://img.shields.io/badge/Excel-Intermedi%C3%A1rio-FFB6C1?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-FFB6C1?style=for-the-badge&logo=powerbi&logoColor=white)
-
+  <img src="./assets/excel.png" alt="Excel" height="30" />
+  <img src="./assets/powerbi.png" alt="Power BI" height="30" />
 </div>
+
 <br>
 
 ## 💌 conecte-se comigo
