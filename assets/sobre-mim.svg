@@ -1,3 +1,4 @@
+
 <svg xmlns="http://www.w3.org/2000/svg" width="800" height="100" viewBox="0 0 800 100">
   <style>
     .title { 
@@ -26,8 +27,8 @@
   <!-- Coluna 1: Formação -->
   <g transform="translate(10, 20)">
     <text x="0" y="0" class="title">🎓 Formação</text>
-    <text x="0" y="30" class="text">Engenharia de Produção <tspan class="italic">previsão:</tspan></text>
-    <text x="0" y="52" class="text italic">2028</text>
+    <text x="0" y="30" class="text">Engenharia de Produção</text>
+    <text x="0" y="52" class="text italic">previsão: 2028</text>
   </g>
 
   <!-- Coluna 2: Atuação -->
