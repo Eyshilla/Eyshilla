@@ -8,9 +8,9 @@
 
 *Construindo com delicadeza e propósito ✨*
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1000&color=B768A2&center=true&vCenter=true&width=435&lines=Bem-vinda(o)+ao+meu+perfil!;Estudante+%7C+Criativa+%7C+Curiosa;Sempre+aprendendo+algo+novo+%E2%9C%A8)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1000&color=B768A2&center=true&vCenter=true&width=435&lines=Boas-vindas+ao+meu+perfil!;Estudante+%7C+Criativa+%7C+Curiosa;Sempre+aprendendo+algo+novo+%E2%9C%A8)](https://git.io/typing-svg)
 
-</div>
+</div align="center">
 
 <br>
 
@@ -46,10 +46,25 @@ e colagens
 
 ## 🎨 interesses
 
+<pre>
+  
 `Lettering` ████████░░ 80%
-`Colagem`   ██████░░░░ 60%
-`Aprender coisas novas` ██████████ 100%
 
+`Colagem`   ██████░░░░ 60%
+
+`Aprender coisas novas` ██████████ 100%
+</pre>
+
+<br>
+
+##  🔍💻 Ferramentas 
+
+<div align="center">
+
+![Excel](https://img.shields.io/badge/Excel-Intermedi%C3%A1rio-FFB6C1?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-FFB6C1?style=for-the-badge&logo=powerbi&logoColor=white)
+
+</div>
 <br>
 
 ## 💌 conecte-se comigo
@@ -68,15 +83,7 @@ e colagens
 
 <div align="center">
 
-![GitHub Stats](https://raw.githubusercontent.com/Eyshilla/Eyshilla/main/profile/stats.svg)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=eyshilla&theme=bear&background=000&border=30A3DC&dates=rose_pine)](https://git.io/streak-stats)
-
-![Top Langs](https://raw.githubusercontent.com/Eyshilla/Eyshilla/main/profile/top-langs.svg)
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=Eyshilla&theme=radical&no-frame=true&column=4&margin-w=10&margin-h=10)
-
-![Contribution Snake](https://raw.githubusercontent.com/Eyshilla/Eyshilla/output/github-contribution-grid-snake.svg)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=eyshilla&theme=bear&background=000&border=30A3DC&dates=rose_pine)](https://git.io/streak-stats) ![Top Langs](https://raw.githubusercontent.com/Eyshilla/Eyshilla/main/profile/top-langs.svg) ![Contribution Snake](https://raw.githubusercontent.com/Eyshilla/Eyshilla/output/github-contribution-grid-snake.svg)
 
 </div>
 
