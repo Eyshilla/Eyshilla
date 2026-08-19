@@ -1,8 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:F8B7CD,100:B768A2&height=150&section=header)
-
-<img src="https://raw.githubusercontent.com/Eyshilla/Eyshilla/main/sparkles.svg" width="700"/>
+<img src="./assets/sakura-topo.svg" width="100%" alt="Galhos de cerejeira com pétalas caindo" />
 
 [![Nome](https://readme-typing-svg.demolab.com?font=Great+Vibes&size=55&pause=1000&color=B768A2&center=true&vCenter=true&width=435&height=70&lines=Eyshilla)](https://git.io/typing-svg)
 
@@ -82,4 +80,5 @@ e colagens
 
 <br>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:F8B7CD,100:B768A2&height=100&section=footer)
+
+<img src="./assets/sakura-rodape.svg" width="100%" alt="Chão coberto por pétalas de cerejeira" />
